@@ -1,0 +1,1 @@
+ D:\\Flutter\ Projects\\Dress\\.dart_tool\\flutter_build\\80b4b74572e7d4c5eba8f25a64e06a86\\native_assets.yaml: 
