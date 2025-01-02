@@ -12,7 +12,7 @@ class DressPrices extends StatefulWidget {
 class _MyHomePageState extends State<DressPrices> {
   int dressPrice = 5000;
   int numberOfDresses = 5;
-  double taxRate = 0.17;
+  double taxRate = 0.1;
   double? totalPrice;
   double? totalTax;
   double? finalPrice;
